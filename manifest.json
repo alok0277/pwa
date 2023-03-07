@@ -1,0 +1,22 @@
+{
+    "name":"Alok_App",
+    "short_name":"AlokApp",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#FFE902",
+    "theme_color":"#FFE902",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/img/icons/icons.png",
+            "type":"image/png",
+            "sizes":"72x72"
+        },
+        {
+            "src":"/img/icons/icons2.png",
+            "type":"image/png",
+            "sizes":"256x256"
+        }
+    ]
+
+}
